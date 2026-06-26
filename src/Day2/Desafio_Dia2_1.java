@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package Day2;
 
+import java.util.Scanner;
 
 
 public class Desafio_Dia2_1 {
