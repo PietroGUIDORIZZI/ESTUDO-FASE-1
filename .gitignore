@@ -28,7 +28,7 @@ gradle-wrapper.properties
 *.ipr
 /out/
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 /httpRequests/
 /queries/
 /dataSources/
